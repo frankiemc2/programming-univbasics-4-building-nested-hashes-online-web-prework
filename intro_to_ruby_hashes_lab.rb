@@ -1,9 +1,7 @@
 def base_hash
-base_hash = {:north_america => {
-    "Canada" => {
-      :capital => "Ottawa",
-      :capital_climate => "Kőppen Dfb"
-    }}}
+base_hash = {:monopoly => {
+    "railroads" }
+  }
 end
 
 def monopoly_with_second_tier
